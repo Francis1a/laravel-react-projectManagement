@@ -4,7 +4,7 @@ import {
   TASK_PRIORITY_TEXT_MAP,
   TASK_STATUS_CLASS_MAP,
   TASK_STATUS_TEXT_MAP,
-} from "@/constans";
+} from "@/constants";
 import { Head, Link } from "@inertiajs/react";
 import React from "react";
 import TasksTable from "../Task/TasksTable";
